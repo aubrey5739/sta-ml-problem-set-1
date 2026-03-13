@@ -1,6 +1,6 @@
 # Intro to Machine Learning — Problem Set 1
 
-> STA (Intro to Machine Learning) 수업 과제 | Aubrey Oh (mo26298)  
+> STA (Intro to Machine Learning)  | Aubrey Oh (mo26298)  
 > Language: R
 
 This assignment covers foundational supervised learning methods applied to real-world datasets, including exploratory data analysis, linear and logistic regression, regularization, tree-based methods, and ensemble learning.
